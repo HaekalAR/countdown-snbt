@@ -29,7 +29,7 @@ const Count = () => {
   }, []);
 
   return (
-    <div className="w-full h-screen flex items-center justify-center font-poppins lg:px-20 md:px-12 px-6">
+    <div className="w-full h-screen flex items-center justify-center font-poppins lg:px-20 md:px-12 px-4">
       <div className="bg-[#131313] w-full h-[95vh] border border-[#202020] rounded-md py-7 lg:px-14 md:px-12 px-7 text-white">
         <div className="w-full h-full flex flex-col gap-10 justify-center">
           <div className="w-full h-fit flex flex-col items-center">
